@@ -3,11 +3,11 @@
 
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.myfirstprog</groupId>
-    <artifactId>MyFirstProg</artifactId>
+    <groupId>ua.eantonenko</groupId>
+    <artifactId>selenium-answear</artifactId>
     <version>1.0</version>
 
-    <name>MyFirstProg</name>
+    <name>selenium-answear</name>
 
     <dependencies>
         <dependency>
