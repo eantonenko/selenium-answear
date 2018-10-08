@@ -3,6 +3,8 @@
 *.iml
 .gradle
 target
+log
+logs
 build
 out
 __pycache__
