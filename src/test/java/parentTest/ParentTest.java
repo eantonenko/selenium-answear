@@ -39,7 +39,7 @@ public class ParentTest {
 
     @Before
     public void setUp() {
-        File fileFF = new File("./drivers/chromedriver.exe");
+        File fileFF = new File("./drivers/chromedriver");
         System.setProperty("webdriver.chrome.driver", fileFF.getAbsolutePath());
         pathToScreenShot = "..\\target\\screenshot\\" + this.getClass().getPackage().getName() + "\\" + this.getClass().getSimpleName()
                 + this.testName.getMethodName() + ".jpg";
